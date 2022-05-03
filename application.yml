@@ -3,6 +3,3 @@ spring:
     config:
      enabled:true
       uri: http://localhost:9296
-spring:
-   application:
-      name: ConfigApplication
